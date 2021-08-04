@@ -13,11 +13,11 @@
 
 ## Subject Session Developed
 
-- Entity-Relationship Model (ER model)
+- [Entity-Relationship Model (ER model) Example](https://github.com/souzafcharles/Database-I/tree/master/Entity_Relationship_Model_Example)
 - The SQL Language: DDL (Data Definition Language) Commands and DML (Data Manipulation Language) Commands
 - The SQL Language: DQL (Data Query Language) commands and commands for storing and retrieving data
-- Case studies Part 01: database design, MER construction and implementation in a DBMS
-- Case studies Part 02: database design, MER construction and implementation in a DBMS
+- Case studies Part 01: [database design, MER construction and implementation in a DBMS](https://github.com/souzafcharles/Database-I/tree/master/Subjectwork_Part_01)
+- Case studies Part 02: [database design, MER construction and implementation in a DBMS](https://github.com/souzafcharles/Database-I/tree/master/Subjectwork_Part_02)
 
 
 ### :link: [ADS Course Information Access](https://scl.ifsp.edu.br/index.php/cursos.html?id=116:ads&catid=61)
