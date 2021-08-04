@@ -10,6 +10,7 @@
 
 :dolphin: Interface used: [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
+:calendar: 2nd semester 2020
 
 ## Subject Session Developed
 
