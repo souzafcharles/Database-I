@@ -6,7 +6,7 @@
 
 :triangular_flag_on_post: Lecturer: Prof. Dr. Fábio Roberto Octaviano
 
-:computer: Technologist degree in System Analysis and Development at [IFSP](https://www.ifsp.edu.br/), São Carlos, SP, Brazil -
+:computer: Technologist degree in System Analysis and Development at [IFSP](https://www.ifsp.edu.br/), São Carlos, SP, Brazil
 
 :dolphin: Interface used: [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
