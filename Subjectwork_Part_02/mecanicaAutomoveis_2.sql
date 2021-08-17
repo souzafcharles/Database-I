@@ -1,3 +1,10 @@
+/*
+Class title: Database-I
+Lecturer: Prof. Dr. Fábio Roberto Octaviano
+Example adapted by: Charles Fernandes de Souza
+Date: January 20, 2021
+*/
+
 create database mecanicaAutomoveis_2;
 use mecanicaAutomoveis_2;
 
