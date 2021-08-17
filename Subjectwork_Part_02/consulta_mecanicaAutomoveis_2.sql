@@ -1,3 +1,10 @@
+/*
+Class title: Database-I
+Lecturer: Prof. Dr. Fábio Roberto Octaviano
+Example adapted by: Charles Fernandes de Souza
+Date: January 20, 2021
+*/
+
 use mecanicaAutomoveis_2;
 
 -- Retorna peças de tamanho P em ordem decrescente 
